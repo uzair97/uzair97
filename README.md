@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @uzair97
-- 👀 I’m interested in Web development and software Development.
-- 🌱 I’m currently learning Python and SQL. 
+- 👀 I’m interested in Software/Web Development
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on any projects which involves Python. 
-- 📫 
+- 📫 Proficient in Java and Python
 
 <!---
 uzair97/uzair97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
