@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @uzair97
 - 👀 I’m interested in Software/Web Development
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on any projects which involves Python. 
 - 📫 Proficient in Java and Python
 
 <!---
