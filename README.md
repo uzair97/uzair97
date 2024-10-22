@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uzair97
-- 👀 I’m interested in Software/Web Development
+- 👀 I’m interested in Software / Web Development
 - 📫 Proficient in Java and Python
 
 <!---
